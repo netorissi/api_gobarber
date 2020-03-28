@@ -4,6 +4,7 @@ yarn.lock
 .yarninstall
 
 node_modules/
+tmp/
 
 *.swp
 *.tar.gz
