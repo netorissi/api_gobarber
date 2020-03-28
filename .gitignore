@@ -1,0 +1,11 @@
+yarn-error.log
+dist
+yarn.lock
+.yarninstall
+
+node_modules/
+
+*.swp
+*.tar.gz
+.DS_Store
+.vscode
